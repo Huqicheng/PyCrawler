@@ -1,0 +1,15 @@
+DEBUG:root:2018-06-23 12:31:20 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:2018-06-23 12:32:59 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:2018-06-23 12:42:58 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:2018-06-23 12:43:51 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:2018-06-23 12:43:58 - Thread-2 - File saved: ./output/www.baidu.com
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:2018-06-23 12:44:07 - Thread-1 - File saved: ./output/www.baidu.com-gaoji-preferences.html
+DEBUG:root:Exception: no host given
